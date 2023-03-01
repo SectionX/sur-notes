@@ -1,0 +1,22 @@
+sur-notes
+
+A small note application that allows to create lists of notes and mark them complete.
+
+# UI
+
+A simple browser application, 
+
+Login page
+A simple with three buttons, create, mark complete, and delete.
+
+Frontend 
+Barebones html-css-js that allows for very simple behaviors, like greeting the user
+and sending data to the backend. The frontend won't directly access the database.
+
+Backend
+The data persistence will be done with MySQL, Java will be used to perform the necessary
+queries, sanitize the data and any other kind of logic.
+
+
+
+
